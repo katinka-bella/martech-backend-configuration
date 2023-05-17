@@ -3,6 +3,15 @@
 ## about
 ...
 
+## create gcs bucket
+```
+BUCKET_1="martech-api-bucket"
+BUCKET_2="martech-config-bucket"
+
+gsutils xxx
+```
+
+
 
 ## structure
 ```
