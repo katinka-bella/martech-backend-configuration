@@ -8,7 +8,7 @@ The repository is organized to store configuration files related to different cl
 
 ```
 ├─ clients/
-│  ├─ 001//
+│  ├─ 001/
 │  │  ├─ client_metadata.py
 │  │  ├─ input_file.xlsx
 │  ├─ 002/
